@@ -1,0 +1,5 @@
+project_name: Klee_Tutorial_Two
+bitcode_file_list: /usr/local/mull/mull/tmp/mull_bitcode_files
+max_distance: 3
+fork: true
+
